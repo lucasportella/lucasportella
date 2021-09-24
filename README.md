@@ -11,5 +11,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasportella&show_icons=true&locale=en" alt="lucasportella" /></p>
 
-[![Lucas Portella's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasportella)](https://github.com/lucasportella/github-readme-stats)
 
