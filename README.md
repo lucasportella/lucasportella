@@ -6,7 +6,7 @@
 
 <a href="https://linkedin.com/in/lucas-fernandes-portella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-fernandes-portella" height="30" width="40" /></a>
 </p>
-  🏠 I’m currently living at Porto Alegre, Brazil ![image](https://user-images.githubusercontent.com/63923113/134724031-7c131448-0782-4fcd-a924-4ecc0a7e8082.png)
+  🏠 I’m currently living at Porto Alegre, Brazil
 
   📫 email me via lucasportellaagu@gmail.com
 
