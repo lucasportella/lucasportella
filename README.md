@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Lucas Portella</h1>
-<h3 align="center">Fullstack Web Developer Student</h3>
+<h1 align="center">Hi there 👋 I'm Lucas Portella</h1>
+<h3 align="center">Fullstack Web Developer Student at Trybe</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
