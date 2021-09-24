@@ -11,6 +11,6 @@
 
 ![Lucas Portella's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasportella&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasportella&theme=dark)](https://github.com/lucasportella/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasportella&theme=dark&layout=compact)](https://github.com/lucasportella/github-readme-stats)
 
 
