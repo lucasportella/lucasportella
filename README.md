@@ -3,9 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/lucasportella" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="40px" height="30px">
-</a> 
+
 <a href="https://linkedin.com/in/lucas-fernandes-portella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-fernandes-portella" height="30" width="40" /></a>
 </p>
 
