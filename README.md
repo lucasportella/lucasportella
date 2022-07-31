@@ -8,7 +8,8 @@
 </p>
   🏠 I’m currently living at Porto Alegre, Brazil 🇧🇷
 
-  📫 email me via lucasportellaagu@gmail.com
+  📫 Email me via lucasportellaagu@gmail.com</br>
+  :chains: Helping to build blockchain world at <a href="https://github.com/klever-io" target="_blank">Klever</a>
   
 
 
