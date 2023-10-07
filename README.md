@@ -35,5 +35,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasportella&theme=dark&layout=compact)](https://github.com/lucasportella/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasportella&repo=github-readme-stats)](https://github.com/lucasportella/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasportella&repo=backup-automator)](https://github.com/anuraghazra/github-readme-stats)
 
