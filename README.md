@@ -37,3 +37,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasportella&theme=dark&layout=compact)](https://github.com/lucasportella/github-readme-stats)
 
+
+## Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=klever-io&repo=kleverscan)](https://github.com/klever-io/kleverscan)
+
