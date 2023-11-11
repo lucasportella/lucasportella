@@ -34,6 +34,9 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
 
+<!-- GitHub Readme Stats -->
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasportella)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasportella&theme=dark&layout=compact)](https://github.com/lucasportella/github-readme-stats)
 
