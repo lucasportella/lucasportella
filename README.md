@@ -9,7 +9,7 @@
   🏠 I’m currently living at Porto Alegre, Brazil 🇧🇷
 
   📫 Email me via lucasportellaagu@gmail.com</br>
-  :chains: Currently contributing to the blockchain world through the open source project  <a>[web3-hub](https://github.com/klever-io/web3-hub)</a>
+  :chains: Currently contributing to the blockchain world at  <a>[Klever](https://github.com/klever-io/)</a>
   
 
 
